@@ -249,9 +249,9 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
-              Tu pagal hai!!
-            </StyledLink>
+//             <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
+//               Contract address
+//             </StyledLink>
           </s.TextDescription>
           <s.SpacerSmall />
           {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
