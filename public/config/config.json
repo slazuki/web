@@ -1,18 +1,18 @@
 {
   "CONTRACT_ADDRESS": "0xB9836C81e6197e78e5df9f8707104A63A3DE907d",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb9836c81e6197e78e5df9f8707104a63a3de907d",
+  "SCAN_LINK": "https://etherscan.io/address/0xc6d62be70c2297b0d0e6a8d7b1b2f486662f2ead",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Superlative Azuki",
   "SYMBOL": "SupAz",
   "MAX_SUPPLY": 9999,
   "WEI_COST": 000000000000000,
-  "DISPLAY_COST": 0.0,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testdo-l8nmq7vn7g",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/slazuki",
   "SHOW_BACKGROUND": true
 }
